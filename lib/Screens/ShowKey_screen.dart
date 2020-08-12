@@ -28,7 +28,7 @@ class ShowKeyScreen extends StatelessWidget {
                   mainAxisAlignment: MainAxisAlignment.center,
                   children: <Widget>[
                     Text("key: ",style: TextStyle(
-                        color: Colors.grey,fontSize: 18
+                        color: Colors.grey,fontSize: 19
                     ),),
                     Text("$babyKey",style: TextStyle(
                         color: Colors.black,fontSize: 16
